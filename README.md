@@ -3,7 +3,7 @@ Custom discord rich presence "dynamic" that will change on a specified interval 
 
 # json
 
-Open [config.json](config.json) to configure
+Open [drpc.json](drpc.json) to configure
 
 | Key  | Description |
 |---|---|

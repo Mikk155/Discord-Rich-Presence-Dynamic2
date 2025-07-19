@@ -1,0 +1,37 @@
+{
+    "client_id": "1396104818757468261",
+
+    "update_interval": 5,
+
+    "description": "CSharp RPC",
+
+    "state": "My links",
+
+    "buttons":
+    [
+        {
+            "title": "Github",
+            "url": "https://github.com/Mikk155",
+            "image": "icon_github",
+            "description": "Github profie"
+        },
+        {
+            "title": "PayPal",
+            "url": "https://paypal.me/mikk1555",
+            "image": "icon_paypal",
+            "description": "Donations"
+        },
+        {
+            "title": "Limitless Potential",
+            "url": "https://discord.gg/HHMZj3MSWT",
+            "image": "icon_discord",
+            "description": "Discord"
+        },
+        {
+            "title": "The Cult (+18)",
+            "url": "https://discord.gg/b6ASQVkDfu",
+            "image": "icon_thecult",
+            "description": "Discord server NSFW"
+        }
+    ]
+}
